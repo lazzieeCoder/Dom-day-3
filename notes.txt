@@ -1,0 +1,2 @@
+<button type="button" onclick="foo()">Submit</button>
+alert=> Happy onam
